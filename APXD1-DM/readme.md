@@ -1,4 +1,6 @@
 # These files are for HP Redwood A
+Can be found in Towers like Compaq CQ2907EG
+
 (Has the marking APXD1-DM on the mainboard)
 
 # How to flash?
