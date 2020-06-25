@@ -8,7 +8,7 @@ Can be found in Towers like Compaq CQ2907EG
 
 Plug a SPI Programmer into the SPI header near the SPI chip
 
-Flash image and enjoy your unlocked bios :)
+Flash redwood_dschndr_ulk.bin image and enjoy your unlocked bios with all (advanced) tabs :)
 
 # Stuck in Main/... tab?
 Press escape and you will get into the File Tab
